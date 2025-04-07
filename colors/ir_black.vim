@@ -179,6 +179,7 @@ hi link javaCommentTitle      javaDocSeeTag
 hi link javaDocTags           javaDocSeeTag 
 hi link javaDocParam          javaDocSeeTag 
 hi link javaDocSeeTagParam    javaDocSeeTag 
+hi link javaConceptKind       Identifier
 
 hi javaDocSeeTag              guifg=#CCCCCC     guibg=NONE        gui=NONE      ctermfg=darkgray    ctermbg=NONE        cterm=NONE
 hi javaDocSeeTag              guifg=#CCCCCC     guibg=NONE        gui=NONE      ctermfg=darkgray    ctermbg=NONE        cterm=NONE
